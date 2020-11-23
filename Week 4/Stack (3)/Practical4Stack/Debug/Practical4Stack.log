@@ -1,0 +1,5 @@
+﻿  main.cpp
+  maze.cpp
+  stack.cpp
+  Generating Code...
+C:\Users\A\Desktop\Sem 2.1\DSA\Week 4\Stack (3)\Practical4Stack\maze.cpp(7): error C4716: 'Maze::hasNeighbor': must return a value

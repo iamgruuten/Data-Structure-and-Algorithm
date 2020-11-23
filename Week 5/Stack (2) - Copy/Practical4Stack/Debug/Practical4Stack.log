@@ -1,0 +1,7 @@
+﻿  Customer.cpp
+  Main.cpp
+C:\Users\A\Desktop\Sem 2.1\DSA\Week 5\Stack (2) - Copy\Practical4Stack\Main.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Queue.cpp
+  stack.cpp
+  Generating Code...
+  Practical4Stack.vcxproj -> C:\Users\A\Desktop\Sem 2.1\DSA\Week 5\Stack (2) - Copy\Debug\Practical4Stack.exe
