@@ -1,2 +1,7 @@
-﻿  Queue.cpp
+﻿  List.cpp
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\LinkedList\List.cpp(22,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\LinkedList\List.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\LinkedList\List.cpp(123,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\LinkedList\List.cpp(138,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\LinkedList\List.cpp(69): warning C4715: 'List::add': not all control paths return a value
   LinkedList.vcxproj -> C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\LinkedList\Debug\LinkedList.exe

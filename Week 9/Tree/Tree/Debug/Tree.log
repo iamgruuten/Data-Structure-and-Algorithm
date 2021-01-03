@@ -1,0 +1,8 @@
+﻿  BST.cpp
+C:\Users\User\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Week 9\Tree\Tree\BST.cpp(194,28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Week 9\Tree\Tree\BST.cpp(201,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Week 9\Tree\Tree\BST.cpp(203,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Week 9\Tree\Tree\BST.cpp(210,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  S12345678_Practical9.cpp
+  Generating Code...
+  Tree.vcxproj -> C:\Users\User\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Week 9\Tree\Debug\Tree.exe

@@ -1,2 +1,5 @@
 ﻿  Main.cpp
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\Recursion\Recursion\Main.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\Recursion\Recursion\Main.cpp(18,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\Recursion\Recursion\Main.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
   Recursion.vcxproj -> C:\Users\A\Desktop\Sem 2.1\DSA\Data-Structure-and-Algorithm\Full Revise\Recursion\Debug\Recursion.exe

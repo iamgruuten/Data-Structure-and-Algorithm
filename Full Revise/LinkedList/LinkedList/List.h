@@ -66,6 +66,9 @@ public:
 	void print();
 
 	void replace(int index, ItemType item);
+	void reverseR();
+
+	Node* reverseR2(Node* item);
 
 	int search(ItemType item);
 };

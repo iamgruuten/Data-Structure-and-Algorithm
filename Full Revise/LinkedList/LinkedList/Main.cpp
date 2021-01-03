@@ -1,26 +1,19 @@
 #include <iostream>
-#include "Queue.h"
+#include "List.h"
 
 using namespace std;
 
 int main() {
-	Queue q;
-	q.enqueue("Hello");
-	q.enqueue("Hellos");
-	q.enqueue("Helloa");
-	q.enqueue("Hellow");
-	q.enqueue("Hellof");
-	q.enqueue("Hellob");
-	q.enqueue("Hellob");
-	q.displayItems();
-
-	q.dequeue();
-	q.displayItems();
-	q.enqueue("Hellow");
-	q.displayItems();
-	q.dequeue();
-	q.dequeue();
-	q.dequeue();
-	q.displayItems();
-
+	List q;
+	q.add("Hello");
+	q.add("Hellos");
+	q.add("Helloa");
+	q.add("Hellow");
+	q.add("Hellof");
+	q.add("Hellob");
+	q.add("Hellob");
+	q.print();
+	cout << endl;
+	q.reverseR();
+	q.print();
 }

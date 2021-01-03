@@ -13,8 +13,8 @@ List::~List() {
 
 bool List::add(ItemType item) {
 	Node* node = new Node;
-
 	node->item = item;
+	node->next = NULL;
 
 	if (size != 0) {
 		Node* current = firstNode;
@@ -25,11 +25,9 @@ bool List::add(ItemType item) {
 		}
 
 		current->next = node;
-		node->next = NULL;
 	}
 	else {
 		firstNode = node;
-		firstNode->next = NULL;
 	}
 
 	size += 1;
@@ -158,4 +156,25 @@ int List::search(ItemType item) {
 	}
 
 	return count;
+}
+
+void List::reverseR() {
+	reverseR2(firstNode);
+}
+
+
+List::Node* List::reverseR2(Node* current) {
+	if (current == NULL) {
+		return NULL;
+	}
+	if (current->next == NULL) {
+		firstNode = current;
+		return current;
+	}
+
+	Node* node = reverseR2(current->next);
+	node->next = current;
+	current->next = NULL;
+	return current;
+	
 }
